@@ -16,6 +16,7 @@ using namespace std;
 #define tr(it, a) for(auto it = a.begin(); it != a.end(); it++)
 typedef pair<int, int> pii;
 typedef pair<ll, ll> pl;
+typedef vector<int> vi;
 
 int mpow(int base, int exp); 
 
